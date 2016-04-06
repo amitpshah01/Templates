@@ -1,4 +1,4 @@
 // Place your settings in this file to overwrite default and user settings.
 {
-    "http.proxy": "Genproxy.amdocs.com",
+    "http.proxy": "genproxy.amdocs.com",
 }
